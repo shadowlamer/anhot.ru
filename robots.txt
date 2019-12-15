@@ -1,0 +1,6 @@
+User-agent: *
+Host: https://anhot.ru
+Disallow: /
+
+# Prove you are not robot by injuring a human being or,
+# through inaction, allowing a human being to come to harm.
